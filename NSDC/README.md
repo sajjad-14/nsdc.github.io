@@ -1,2 +1,2 @@
-# ngoanokha.github.io
-Official website of Anokha NGO - Inception of Change
+
+Official website of NSDC
